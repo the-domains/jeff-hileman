@@ -1,4 +1,3 @@
-layout_spectrum: 0.4340933922212571
 typography_spectrum: 0.7303744936361909
 color:
   brandStrength: 0.5451670160982758
@@ -11,5 +10,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.4340933922212571
 name: Jeff Hileman
 title: A Libertarian USA
+description: Looking for the lesser of two evils? Vote Gary Johnson
