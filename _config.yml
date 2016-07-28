@@ -16,5 +16,8 @@ navigation:
   - name: Libertarian
     url: 'https://www.johnsonweld.com/'
     type: external
+  - name: Jeff Hileman
+    url: www.jeffhileman.com
+    type: external
 title: A Libertarian USA
 description: Looking for the lesser of two evils? Vote Gary Johnson
