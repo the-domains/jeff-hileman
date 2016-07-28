@@ -12,5 +12,9 @@ color:
     - '#FAD8D6'
 layout_spectrum: 0.4340933922212571
 name: Jeff Hileman
+navigation:
+  - name: Libertarian
+    url: 'https://www.johnsonweld.com/'
+    type: external
 title: A Libertarian USA
 description: Looking for the lesser of two evils? Vote Gary Johnson
